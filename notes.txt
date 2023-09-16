@@ -1,0 +1,2 @@
+1. run server3.py in one terminal
+2. open another window, run clien3.py
